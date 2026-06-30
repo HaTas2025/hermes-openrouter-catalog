@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-30T14:23:57.216557Z",
+  "updated_at": "2026-06-30T20:01:22.259251Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -160,6 +160,10 @@
         },
         {
           "id": "anthropic/claude-sonnet-4.6",
+          "description": ""
+        },
+        {
+          "id": "anthropic/claude-sonnet-5",
           "description": ""
         },
         {
