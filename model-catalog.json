@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-02T14:06:05.656284Z",
+  "updated_at": "2026-07-02T19:27:11.686250Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -68,6 +68,10 @@
         },
         {
           "id": "poolside/laguna-m.1:free",
+          "description": "free"
+        },
+        {
+          "id": "poolside/laguna-xs-2.1:free",
           "description": "free"
         },
         {
@@ -700,6 +704,10 @@
         },
         {
           "id": "poolside/laguna-m.1",
+          "description": ""
+        },
+        {
+          "id": "poolside/laguna-xs-2.1",
           "description": ""
         },
         {
