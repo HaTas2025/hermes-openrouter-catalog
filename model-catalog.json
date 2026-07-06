@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-06T10:27:14.631239Z",
+  "updated_at": "2026-07-06T15:37:35.719184Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -84,6 +84,10 @@
         },
         {
           "id": "qwen/qwen3-next-80b-a3b-instruct:free",
+          "description": "free"
+        },
+        {
+          "id": "tencent/hy3:free",
           "description": "free"
         },
         {
@@ -916,6 +920,10 @@
         },
         {
           "id": "stepfun/step-3.7-flash",
+          "description": ""
+        },
+        {
+          "id": "tencent/hy3",
           "description": ""
         },
         {
