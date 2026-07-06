@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-06T15:37:35.719184Z",
+  "updated_at": "2026-07-06T20:00:50.424867Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -76,6 +76,10 @@
         },
         {
           "id": "poolside/laguna-xs.2:free",
+          "description": "free"
+        },
+        {
+          "id": "qwen/qwen3-235b-a22b-2507",
           "description": "free"
         },
         {
@@ -479,6 +483,10 @@
           "description": ""
         },
         {
+          "id": "nex-agi/nex-n2-mini",
+          "description": ""
+        },
+        {
           "id": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
           "description": ""
         },
@@ -744,10 +752,6 @@
         },
         {
           "id": "qwen/qwen3-235b-a22b",
-          "description": ""
-        },
-        {
-          "id": "qwen/qwen3-235b-a22b-2507",
           "description": ""
         },
         {
