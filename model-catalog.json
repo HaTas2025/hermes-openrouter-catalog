@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-06T20:00:50.424867Z",
+  "updated_at": "2026-07-07T03:36:30.808951Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -76,10 +76,6 @@
         },
         {
           "id": "poolside/laguna-xs.2:free",
-          "description": "free"
-        },
-        {
-          "id": "qwen/qwen3-235b-a22b-2507",
           "description": "free"
         },
         {
@@ -752,6 +748,10 @@
         },
         {
           "id": "qwen/qwen3-235b-a22b",
+          "description": ""
+        },
+        {
+          "id": "qwen/qwen3-235b-a22b-2507",
           "description": ""
         },
         {
