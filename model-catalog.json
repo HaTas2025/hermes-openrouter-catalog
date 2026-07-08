@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-08T14:15:08.533660Z",
+  "updated_at": "2026-07-08T19:28:13.219228Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -967,6 +967,10 @@
           "description": ""
         },
         {
+          "id": "x-ai/grok-4.5",
+          "description": ""
+        },
+        {
           "id": "x-ai/grok-build-0.1",
           "description": ""
         },
@@ -1060,6 +1064,10 @@
         },
         {
           "id": "~openai/gpt-mini-latest",
+          "description": ""
+        },
+        {
+          "id": "~x-ai/grok-latest",
           "description": ""
         }
       ]
