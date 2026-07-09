@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-09T15:14:20.959987Z",
+  "updated_at": "2026-07-09T19:49:14.635829Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -652,6 +652,30 @@
         },
         {
           "id": "openai/gpt-5.5-pro",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-5.6-luna",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-5.6-luna-pro",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-5.6-sol",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-5.6-sol-pro",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-5.6-terra",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-5.6-terra-pro",
           "description": ""
         },
         {
