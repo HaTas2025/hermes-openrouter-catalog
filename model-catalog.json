@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-13T09:31:08.293650Z",
+  "updated_at": "2026-07-13T14:38:18.092042Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -20,10 +20,6 @@
         },
         {
           "id": "google/gemma-4-31b-it:free",
-          "description": "free"
-        },
-        {
-          "id": "liquid/lfm-2.5-1.2b-thinking:free",
           "description": "free"
         },
         {
