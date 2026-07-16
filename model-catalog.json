@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-16T13:56:29.042781Z",
+  "updated_at": "2026-07-16T19:14:29.254608Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -363,6 +363,10 @@
           "description": ""
         },
         {
+          "id": "meta/muse-spark-1.1",
+          "description": ""
+        },
+        {
           "id": "minimax/minimax-m1",
           "description": ""
         },
@@ -476,6 +480,10 @@
         },
         {
           "id": "moonshotai/kimi-k2.7-code",
+          "description": ""
+        },
+        {
+          "id": "moonshotai/kimi-k3",
           "description": ""
         },
         {
