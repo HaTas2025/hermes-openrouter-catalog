@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-17T13:42:13.244853Z",
+  "updated_at": "2026-07-17T19:13:06.386117Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -740,6 +740,10 @@
         },
         {
           "id": "openrouter/auto",
+          "description": ""
+        },
+        {
+          "id": "openrouter/auto-beta",
           "description": ""
         },
         {
