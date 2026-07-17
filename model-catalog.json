@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-17T08:12:38.683941Z",
+  "updated_at": "2026-07-17T13:42:13.244853Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -492,10 +492,6 @@
         },
         {
           "id": "nex-agi/nex-n2-pro",
-          "description": ""
-        },
-        {
-          "id": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
           "description": ""
         },
         {
