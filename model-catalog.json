@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-17T19:13:06.386117Z",
+  "updated_at": "2026-07-18T02:38:31.165134Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -968,6 +968,10 @@
         },
         {
           "id": "thedrummer/unslopnemo-12b",
+          "description": ""
+        },
+        {
+          "id": "thinkingmachines/inkling",
           "description": ""
         },
         {
