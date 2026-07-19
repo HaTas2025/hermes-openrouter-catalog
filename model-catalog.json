@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-19T08:22:29.430506Z",
+  "updated_at": "2026-07-19T13:20:43.702774Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -20,10 +20,6 @@
         },
         {
           "id": "google/gemma-4-31b-it:free",
-          "description": "free"
-        },
-        {
-          "id": "meta-llama/llama-3.3-70b-instruct:free",
           "description": "free"
         },
         {
@@ -64,14 +60,6 @@
         },
         {
           "id": "poolside/laguna-xs-2.1:free",
-          "description": "free"
-        },
-        {
-          "id": "qwen/qwen3-coder:free",
-          "description": "free"
-        },
-        {
-          "id": "qwen/qwen3-next-80b-a3b-instruct:free",
           "description": "free"
         },
         {
