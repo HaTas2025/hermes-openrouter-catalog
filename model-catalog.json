@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-20T19:45:37.489990Z",
+  "updated_at": "2026-07-21T02:49:56.609429Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -60,10 +60,6 @@
         },
         {
           "id": "poolside/laguna-xs-2.1:free",
-          "description": "free"
-        },
-        {
-          "id": "tencent/hy3:free",
           "description": "free"
         },
         {
