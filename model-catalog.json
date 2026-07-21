@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-21T13:55:23.708034Z",
+  "updated_at": "2026-07-21T19:26:00.346030Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -56,6 +56,10 @@
         },
         {
           "id": "poolside/laguna-m.1:free",
+          "description": "free"
+        },
+        {
+          "id": "poolside/laguna-s-2.1:free",
           "description": "free"
         },
         {
@@ -276,6 +280,14 @@
         },
         {
           "id": "google/gemini-3.5-flash",
+          "description": ""
+        },
+        {
+          "id": "google/gemini-3.5-flash-lite",
+          "description": ""
+        },
+        {
+          "id": "google/gemini-3.6-flash",
           "description": ""
         },
         {
@@ -736,6 +748,10 @@
         },
         {
           "id": "poolside/laguna-m.1",
+          "description": ""
+        },
+        {
+          "id": "poolside/laguna-s-2.1",
           "description": ""
         },
         {
