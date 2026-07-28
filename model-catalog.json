@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-28T08:36:31.248524Z",
+  "updated_at": "2026-07-28T14:10:30.588526Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -56,10 +56,6 @@
         },
         {
           "id": "openrouter/free",
-          "description": "free"
-        },
-        {
-          "id": "poolside/laguna-m.1:free",
           "description": "free"
         },
         {
@@ -756,10 +752,6 @@
         },
         {
           "id": "openrouter/auto-beta",
-          "description": ""
-        },
-        {
-          "id": "poolside/laguna-m.1",
           "description": ""
         },
         {
