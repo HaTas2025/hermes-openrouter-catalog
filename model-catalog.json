@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-28T19:26:44.898343Z",
+  "updated_at": "2026-07-29T02:47:04.243794Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -180,10 +180,6 @@
         },
         {
           "id": "anthropic/claude-opus-5-fast",
-          "description": ""
-        },
-        {
-          "id": "anthropic/claude-opus-5:batch",
           "description": ""
         },
         {
