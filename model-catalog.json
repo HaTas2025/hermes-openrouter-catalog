@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-30T14:06:35.816724Z",
+  "updated_at": "2026-07-30T19:28:06.307202Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -655,10 +655,6 @@
           "description": ""
         },
         {
-          "id": "openai/gpt-5-codex",
-          "description": ""
-        },
-        {
           "id": "openai/gpt-5-mini",
           "description": ""
         },
@@ -831,10 +827,6 @@
           "description": ""
         },
         {
-          "id": "openai/o3-deep-research",
-          "description": ""
-        },
-        {
           "id": "openai/o3-mini",
           "description": ""
         },
@@ -848,10 +840,6 @@
         },
         {
           "id": "openai/o4-mini",
-          "description": ""
-        },
-        {
-          "id": "openai/o4-mini-deep-research",
           "description": ""
         },
         {
