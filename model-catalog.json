@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-31T08:52:10.673801Z",
+  "updated_at": "2026-07-31T14:10:49.790638Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -480,10 +480,6 @@
         },
         {
           "id": "mistralai/codestral-2508",
-          "description": ""
-        },
-        {
-          "id": "mistralai/devstral-2512",
           "description": ""
         },
         {
