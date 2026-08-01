@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-01T13:24:36.410318Z",
+  "updated_at": "2026-08-01T19:10:17.880359Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1064,6 +1064,10 @@
         },
         {
           "id": "~anthropic/claude-sonnet-latest",
+          "description": ""
+        },
+        {
+          "id": "~deepseek/deepseek-v4-flash-latest",
           "description": ""
         },
         {
