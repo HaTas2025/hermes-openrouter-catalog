@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-06T08:38:38.732483Z",
+  "updated_at": "2026-08-06T14:13:49.996501Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -111,7 +111,15 @@
           "description": ""
         },
         {
+          "id": "anthropic/claude-fable-5:batch",
+          "description": ""
+        },
+        {
           "id": "anthropic/claude-haiku-4.5",
+          "description": ""
+        },
+        {
+          "id": "anthropic/claude-haiku-4.5:batch",
           "description": ""
         },
         {
@@ -123,11 +131,23 @@
           "description": ""
         },
         {
+          "id": "anthropic/claude-opus-4.1:batch",
+          "description": ""
+        },
+        {
           "id": "anthropic/claude-opus-4.5",
           "description": ""
         },
         {
+          "id": "anthropic/claude-opus-4.5:batch",
+          "description": ""
+        },
+        {
           "id": "anthropic/claude-opus-4.6",
+          "description": ""
+        },
+        {
+          "id": "anthropic/claude-opus-4.6:batch",
           "description": ""
         },
         {
@@ -139,11 +159,19 @@
           "description": ""
         },
         {
+          "id": "anthropic/claude-opus-4.7:batch",
+          "description": ""
+        },
+        {
           "id": "anthropic/claude-opus-4.8",
           "description": ""
         },
         {
           "id": "anthropic/claude-opus-4.8-fast",
+          "description": ""
+        },
+        {
+          "id": "anthropic/claude-opus-4.8:batch",
           "description": ""
         },
         {
@@ -155,6 +183,10 @@
           "description": ""
         },
         {
+          "id": "anthropic/claude-opus-5:batch",
+          "description": ""
+        },
+        {
           "id": "anthropic/claude-sonnet-4",
           "description": ""
         },
@@ -163,11 +195,23 @@
           "description": ""
         },
         {
+          "id": "anthropic/claude-sonnet-4.5:batch",
+          "description": ""
+        },
+        {
           "id": "anthropic/claude-sonnet-4.6",
           "description": ""
         },
         {
+          "id": "anthropic/claude-sonnet-4.6:batch",
+          "description": ""
+        },
+        {
           "id": "anthropic/claude-sonnet-5",
+          "description": ""
+        },
+        {
+          "id": "anthropic/claude-sonnet-5:batch",
           "description": ""
         },
         {
@@ -255,6 +299,14 @@
           "description": ""
         },
         {
+          "id": "google/gemini-2.5-flash-lite:batch",
+          "description": ""
+        },
+        {
+          "id": "google/gemini-2.5-flash:batch",
+          "description": ""
+        },
+        {
           "id": "google/gemini-2.5-pro",
           "description": ""
         },
@@ -267,7 +319,15 @@
           "description": ""
         },
         {
+          "id": "google/gemini-2.5-pro:batch",
+          "description": ""
+        },
+        {
           "id": "google/gemini-3-flash-preview",
+          "description": ""
+        },
+        {
+          "id": "google/gemini-3-flash-preview:batch",
           "description": ""
         },
         {
@@ -283,11 +343,19 @@
           "description": ""
         },
         {
+          "id": "google/gemini-3.1-flash-lite:batch",
+          "description": ""
+        },
+        {
           "id": "google/gemini-3.1-pro-preview",
           "description": ""
         },
         {
           "id": "google/gemini-3.1-pro-preview-customtools",
+          "description": ""
+        },
+        {
+          "id": "google/gemini-3.1-pro-preview:batch",
           "description": ""
         },
         {
@@ -299,7 +367,19 @@
           "description": ""
         },
         {
+          "id": "google/gemini-3.5-flash-lite:batch",
+          "description": ""
+        },
+        {
+          "id": "google/gemini-3.5-flash:batch",
+          "description": ""
+        },
+        {
           "id": "google/gemini-3.6-flash",
+          "description": ""
+        },
+        {
+          "id": "google/gemini-3.6-flash:batch",
           "description": ""
         },
         {
@@ -411,6 +491,10 @@
           "description": ""
         },
         {
+          "id": "minimax/minimax-m3:batch",
+          "description": ""
+        },
+        {
           "id": "mistralai/codestral-2508",
           "description": ""
         },
@@ -499,6 +583,10 @@
           "description": ""
         },
         {
+          "id": "moonshotai/kimi-k2.7-code:batch",
+          "description": ""
+        },
+        {
           "id": "moonshotai/kimi-k3",
           "description": ""
         },
@@ -523,6 +611,10 @@
           "description": ""
         },
         {
+          "id": "nvidia/nemotron-3-ultra-550b-a55b:batch",
+          "description": ""
+        },
+        {
           "id": "openai/gpt-3.5-turbo",
           "description": ""
         },
@@ -532,6 +624,10 @@
         },
         {
           "id": "openai/gpt-3.5-turbo-16k",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-3.5-turbo:batch",
           "description": ""
         },
         {
@@ -547,6 +643,10 @@
           "description": ""
         },
         {
+          "id": "openai/gpt-4-turbo:batch",
+          "description": ""
+        },
+        {
           "id": "openai/gpt-4.1",
           "description": ""
         },
@@ -555,7 +655,19 @@
           "description": ""
         },
         {
+          "id": "openai/gpt-4.1-mini:batch",
+          "description": ""
+        },
+        {
           "id": "openai/gpt-4.1-nano",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-4.1-nano:batch",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-4.1:batch",
           "description": ""
         },
         {
@@ -583,7 +695,19 @@
           "description": ""
         },
         {
+          "id": "openai/gpt-4o-mini:batch",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-4o:batch",
+          "description": ""
+        },
+        {
           "id": "openai/gpt-5",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-5-codex:batch",
           "description": ""
         },
         {
@@ -591,11 +715,23 @@
           "description": ""
         },
         {
+          "id": "openai/gpt-5-mini:batch",
+          "description": ""
+        },
+        {
           "id": "openai/gpt-5-nano",
           "description": ""
         },
         {
+          "id": "openai/gpt-5-nano:batch",
+          "description": ""
+        },
+        {
           "id": "openai/gpt-5-pro",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-5-pro:batch",
           "description": ""
         },
         {
@@ -615,6 +751,10 @@
           "description": ""
         },
         {
+          "id": "openai/gpt-5.1:batch",
+          "description": ""
+        },
+        {
           "id": "openai/gpt-5.2",
           "description": ""
         },
@@ -628,6 +768,14 @@
         },
         {
           "id": "openai/gpt-5.2-pro",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-5.2-pro:batch",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-5.2:batch",
           "description": ""
         },
         {
@@ -647,11 +795,27 @@
           "description": ""
         },
         {
+          "id": "openai/gpt-5.4-mini:batch",
+          "description": ""
+        },
+        {
           "id": "openai/gpt-5.4-nano",
           "description": ""
         },
         {
+          "id": "openai/gpt-5.4-nano:batch",
+          "description": ""
+        },
+        {
           "id": "openai/gpt-5.4-pro",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-5.4-pro:batch",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-5.4:batch",
           "description": ""
         },
         {
@@ -663,11 +827,27 @@
           "description": ""
         },
         {
+          "id": "openai/gpt-5.5-pro:batch",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-5.5:batch",
+          "description": ""
+        },
+        {
           "id": "openai/gpt-5.6-luna",
           "description": ""
         },
         {
           "id": "openai/gpt-5.6-luna-pro",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-5.6-luna-pro:batch",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-5.6-luna:batch",
           "description": ""
         },
         {
@@ -679,11 +859,31 @@
           "description": ""
         },
         {
+          "id": "openai/gpt-5.6-sol-pro:batch",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-5.6-sol:batch",
+          "description": ""
+        },
+        {
           "id": "openai/gpt-5.6-terra",
           "description": ""
         },
         {
           "id": "openai/gpt-5.6-terra-pro",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-5.6-terra-pro:batch",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-5.6-terra:batch",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-5:batch",
           "description": ""
         },
         {
@@ -715,6 +915,10 @@
           "description": ""
         },
         {
+          "id": "openai/o1:batch",
+          "description": ""
+        },
+        {
           "id": "openai/o3",
           "description": ""
         },
@@ -727,7 +931,23 @@
           "description": ""
         },
         {
+          "id": "openai/o3-mini-high:batch",
+          "description": ""
+        },
+        {
+          "id": "openai/o3-mini:batch",
+          "description": ""
+        },
+        {
           "id": "openai/o3-pro",
+          "description": ""
+        },
+        {
+          "id": "openai/o3-pro:batch",
+          "description": ""
+        },
+        {
+          "id": "openai/o3:batch",
           "description": ""
         },
         {
@@ -736,6 +956,14 @@
         },
         {
           "id": "openai/o4-mini-high",
+          "description": ""
+        },
+        {
+          "id": "openai/o4-mini-high:batch",
+          "description": ""
+        },
+        {
+          "id": "openai/o4-mini:batch",
           "description": ""
         },
         {
@@ -987,6 +1215,10 @@
           "description": ""
         },
         {
+          "id": "thinkingmachines/inkling:batch",
+          "description": ""
+        },
+        {
           "id": "upstage/solar-pro-3",
           "description": ""
         },
@@ -1056,6 +1288,10 @@
         },
         {
           "id": "z-ai/glm-5.2",
+          "description": ""
+        },
+        {
+          "id": "z-ai/glm-5.2:batch",
           "description": ""
         },
         {
