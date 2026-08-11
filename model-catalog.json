@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-11T01:51:47.160191Z",
+  "updated_at": "2026-08-11T07:10:24.007304Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1180,6 +1180,10 @@
         },
         {
           "id": "sakana/fugu-ultra",
+          "description": ""
+        },
+        {
+          "id": "sakana/sakana-namazu",
           "description": ""
         },
         {
