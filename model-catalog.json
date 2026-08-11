@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-11T13:08:49.036078Z",
+  "updated_at": "2026-08-11T19:03:37.148721Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -40,6 +40,10 @@
         },
         {
           "id": "nvidia/nemotron-3-ultra-550b-a55b:free",
+          "description": "free"
+        },
+        {
+          "id": "nvidia/nemotron-3.5-lightning:free",
           "description": "free"
         },
         {
@@ -228,6 +232,10 @@
         },
         {
           "id": "bytedance-seed/seed-1.6-flash",
+          "description": ""
+        },
+        {
+          "id": "bytedance-seed/seed-2.0-code",
           "description": ""
         },
         {
