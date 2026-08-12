@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-12T13:12:52.916223Z",
+  "updated_at": "2026-08-12T19:03:20.359152Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -239,6 +239,10 @@
           "description": ""
         },
         {
+          "id": "bytedance-seed/seed-2-1-turbo",
+          "description": ""
+        },
+        {
           "id": "bytedance-seed/seed-2.0-code",
           "description": ""
         },
@@ -300,6 +304,10 @@
         },
         {
           "id": "deepseek/deepseek-v4-pro",
+          "description": ""
+        },
+        {
+          "id": "deepseek/deepseek-v4-pro-0813",
           "description": ""
         },
         {
@@ -1179,6 +1187,10 @@
           "description": ""
         },
         {
+          "id": "qwen/qwen3.8-2.4t-a95b",
+          "description": ""
+        },
+        {
           "id": "qwen/qwen3.8-max",
           "description": ""
         },
@@ -1252,6 +1264,10 @@
         },
         {
           "id": "x-ai/grok-4.5",
+          "description": ""
+        },
+        {
+          "id": "x-ai/grok-4.6",
           "description": ""
         },
         {
