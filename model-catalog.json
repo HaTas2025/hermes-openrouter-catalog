@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-13T02:06:15.952996Z",
+  "updated_at": "2026-08-13T07:36:48.142521Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -20,10 +20,6 @@
         },
         {
           "id": "google/gemma-4-31b-it:free",
-          "description": "free"
-        },
-        {
-          "id": "inclusionai/ling-3.0-tiny:free",
           "description": "free"
         },
         {
