@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-15T01:19:19.217890Z",
+  "updated_at": "2026-08-15T06:39:56.189494Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -12,6 +12,10 @@
       "models": [
         {
           "id": "cohere/north-mini-code:free",
+          "description": "free"
+        },
+        {
+          "id": "dots-studio/dots-3-note-preview:free",
           "description": "free"
         },
         {
