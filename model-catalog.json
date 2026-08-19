@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-19T12:50:17.528159Z",
+  "updated_at": "2026-08-19T18:37:14.841390Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -77,10 +77,6 @@
         {
           "id": "z-ai/glm-5.2:free",
           "description": "free"
-        },
-        {
-          "id": "ai21/jamba-large-1.7",
-          "description": ""
         },
         {
           "id": "aion-labs/aion-2.0",
@@ -1400,6 +1396,10 @@
         },
         {
           "id": "~x-ai/grok-latest",
+          "description": ""
+        },
+        {
+          "id": "~z-ai/glm-latest",
           "description": ""
         }
       ]
