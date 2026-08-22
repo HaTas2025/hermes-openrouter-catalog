@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-21T18:38:07.804852Z",
+  "updated_at": "2026-08-22T01:18:35.498492Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -59,10 +59,6 @@
           "description": "free"
         },
         {
-          "id": "openai/gpt-oss-20b:free",
-          "description": "free"
-        },
-        {
           "id": "openrouter/free",
           "description": "free"
         },
@@ -76,6 +72,14 @@
         },
         {
           "id": "stealth/ox-alpha",
+          "description": "free"
+        },
+        {
+          "id": "thinkingmachines/inkling-small:free",
+          "description": "free"
+        },
+        {
+          "id": "thinkingmachines/inkling:free",
           "description": "free"
         },
         {
@@ -504,6 +508,10 @@
         },
         {
           "id": "meta/muse-spark-1.2",
+          "description": ""
+        },
+        {
+          "id": "meta/muse-spark-1.2-contributor",
           "description": ""
         },
         {
