@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-24T12:52:48.354957Z",
+  "updated_at": "2026-08-24T18:41:40.570222Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -31,10 +31,6 @@
           "description": "free"
         },
         {
-          "id": "nvidia/nemotron-3-nano-30b-a3b:free",
-          "description": "free"
-        },
-        {
           "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
           "description": "free"
         },
@@ -48,14 +44,6 @@
         },
         {
           "id": "nvidia/nemotron-3.5-lightning:free",
-          "description": "free"
-        },
-        {
-          "id": "nvidia/nemotron-nano-12b-v2-vl:free",
-          "description": "free"
-        },
-        {
-          "id": "nvidia/nemotron-nano-9b-v2:free",
           "description": "free"
         },
         {
@@ -532,6 +520,10 @@
         },
         {
           "id": "mistralai/codestral-2508",
+          "description": ""
+        },
+        {
+          "id": "mistralai/devstral-2512",
           "description": ""
         },
         {
