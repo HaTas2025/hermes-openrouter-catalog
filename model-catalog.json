@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-25T01:20:07.195630Z",
+  "updated_at": "2026-08-25T06:50:39.375417Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -28,6 +28,14 @@
         },
         {
           "id": "liquid/lfm-2.5-2.6b:free",
+          "description": "free"
+        },
+        {
+          "id": "minimax/minimax-m2.7:free",
+          "description": "free"
+        },
+        {
+          "id": "minimax/minimax-m3:free",
           "description": "free"
         },
         {
