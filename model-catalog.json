@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-26T12:54:51.782960Z",
+  "updated_at": "2026-08-26T19:49:27.747489Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -64,10 +64,6 @@
         },
         {
           "id": "poolside/laguna-xs-2.1:free",
-          "description": "free"
-        },
-        {
-          "id": "stealth/ox-alpha",
           "description": "free"
         },
         {
@@ -1343,11 +1339,11 @@
           "description": ""
         },
         {
-          "id": "z-ai/glm-5.2:batch",
+          "id": "z-ai/glm-5.3",
           "description": ""
         },
         {
-          "id": "z-ai/glm-5.3",
+          "id": "z-ai/glm-5.3-flash",
           "description": ""
         },
         {
