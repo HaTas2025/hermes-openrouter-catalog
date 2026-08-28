@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-27T21:55:49.016435Z",
+  "updated_at": "2026-08-28T10:09:13.114563Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -531,6 +531,10 @@
           "description": ""
         },
         {
+          "id": "mistralai/codestral-2508:batch",
+          "description": ""
+        },
+        {
           "id": "mistralai/devstral-2512",
           "description": ""
         },
@@ -547,6 +551,10 @@
           "description": ""
         },
         {
+          "id": "mistralai/ministral-8b-2512:batch",
+          "description": ""
+        },
+        {
           "id": "mistralai/mistral-large",
           "description": ""
         },
@@ -559,6 +567,10 @@
           "description": ""
         },
         {
+          "id": "mistralai/mistral-large-2512:batch",
+          "description": ""
+        },
+        {
           "id": "mistralai/mistral-medium-3",
           "description": ""
         },
@@ -567,7 +579,15 @@
           "description": ""
         },
         {
+          "id": "mistralai/mistral-medium-3-5:batch",
+          "description": ""
+        },
+        {
           "id": "mistralai/mistral-medium-3.1",
+          "description": ""
+        },
+        {
+          "id": "mistralai/mistral-medium-3.1:batch",
           "description": ""
         },
         {
@@ -580,6 +600,10 @@
         },
         {
           "id": "mistralai/mistral-small-2603",
+          "description": ""
+        },
+        {
+          "id": "mistralai/mistral-small-2603:batch",
           "description": ""
         },
         {
@@ -616,10 +640,6 @@
         },
         {
           "id": "moonshotai/kimi-k2.7-code",
-          "description": ""
-        },
-        {
-          "id": "moonshotai/kimi-k2.7-code:batch",
           "description": ""
         },
         {
@@ -667,10 +687,6 @@
           "description": ""
         },
         {
-          "id": "openai/gpt-3.5-turbo:batch",
-          "description": ""
-        },
-        {
           "id": "openai/gpt-4",
           "description": ""
         },
@@ -683,10 +699,6 @@
           "description": ""
         },
         {
-          "id": "openai/gpt-4-turbo:batch",
-          "description": ""
-        },
-        {
           "id": "openai/gpt-4.1",
           "description": ""
         },
@@ -695,19 +707,7 @@
           "description": ""
         },
         {
-          "id": "openai/gpt-4.1-mini:batch",
-          "description": ""
-        },
-        {
           "id": "openai/gpt-4.1-nano",
-          "description": ""
-        },
-        {
-          "id": "openai/gpt-4.1-nano:batch",
-          "description": ""
-        },
-        {
-          "id": "openai/gpt-4.1:batch",
           "description": ""
         },
         {
@@ -735,19 +735,7 @@
           "description": ""
         },
         {
-          "id": "openai/gpt-4o-mini:batch",
-          "description": ""
-        },
-        {
-          "id": "openai/gpt-4o:batch",
-          "description": ""
-        },
-        {
           "id": "openai/gpt-5",
-          "description": ""
-        },
-        {
-          "id": "openai/gpt-5-codex:batch",
           "description": ""
         },
         {
@@ -755,23 +743,11 @@
           "description": ""
         },
         {
-          "id": "openai/gpt-5-mini:batch",
-          "description": ""
-        },
-        {
           "id": "openai/gpt-5-nano",
           "description": ""
         },
         {
-          "id": "openai/gpt-5-nano:batch",
-          "description": ""
-        },
-        {
           "id": "openai/gpt-5-pro",
-          "description": ""
-        },
-        {
-          "id": "openai/gpt-5-pro:batch",
           "description": ""
         },
         {
@@ -791,10 +767,6 @@
           "description": ""
         },
         {
-          "id": "openai/gpt-5.1:batch",
-          "description": ""
-        },
-        {
           "id": "openai/gpt-5.2",
           "description": ""
         },
@@ -811,14 +783,6 @@
           "description": ""
         },
         {
-          "id": "openai/gpt-5.2-pro:batch",
-          "description": ""
-        },
-        {
-          "id": "openai/gpt-5.2:batch",
-          "description": ""
-        },
-        {
           "id": "openai/gpt-5.3-codex",
           "description": ""
         },
@@ -831,27 +795,11 @@
           "description": ""
         },
         {
-          "id": "openai/gpt-5.4-mini:batch",
-          "description": ""
-        },
-        {
           "id": "openai/gpt-5.4-nano",
           "description": ""
         },
         {
-          "id": "openai/gpt-5.4-nano:batch",
-          "description": ""
-        },
-        {
           "id": "openai/gpt-5.4-pro",
-          "description": ""
-        },
-        {
-          "id": "openai/gpt-5.4-pro:batch",
-          "description": ""
-        },
-        {
-          "id": "openai/gpt-5.4:batch",
           "description": ""
         },
         {
@@ -863,27 +811,11 @@
           "description": ""
         },
         {
-          "id": "openai/gpt-5.5-pro:batch",
-          "description": ""
-        },
-        {
-          "id": "openai/gpt-5.5:batch",
-          "description": ""
-        },
-        {
           "id": "openai/gpt-5.6-luna",
           "description": ""
         },
         {
           "id": "openai/gpt-5.6-luna-pro",
-          "description": ""
-        },
-        {
-          "id": "openai/gpt-5.6-luna-pro:batch",
-          "description": ""
-        },
-        {
-          "id": "openai/gpt-5.6-luna:batch",
           "description": ""
         },
         {
@@ -895,31 +827,11 @@
           "description": ""
         },
         {
-          "id": "openai/gpt-5.6-sol-pro:batch",
-          "description": ""
-        },
-        {
-          "id": "openai/gpt-5.6-sol:batch",
-          "description": ""
-        },
-        {
           "id": "openai/gpt-5.6-terra",
           "description": ""
         },
         {
           "id": "openai/gpt-5.6-terra-pro",
-          "description": ""
-        },
-        {
-          "id": "openai/gpt-5.6-terra-pro:batch",
-          "description": ""
-        },
-        {
-          "id": "openai/gpt-5.6-terra:batch",
-          "description": ""
-        },
-        {
-          "id": "openai/gpt-5:batch",
           "description": ""
         },
         {
@@ -951,10 +863,6 @@
           "description": ""
         },
         {
-          "id": "openai/o1:batch",
-          "description": ""
-        },
-        {
           "id": "openai/o3",
           "description": ""
         },
@@ -967,23 +875,7 @@
           "description": ""
         },
         {
-          "id": "openai/o3-mini-high:batch",
-          "description": ""
-        },
-        {
-          "id": "openai/o3-mini:batch",
-          "description": ""
-        },
-        {
           "id": "openai/o3-pro",
-          "description": ""
-        },
-        {
-          "id": "openai/o3-pro:batch",
-          "description": ""
-        },
-        {
-          "id": "openai/o3:batch",
           "description": ""
         },
         {
@@ -992,14 +884,6 @@
         },
         {
           "id": "openai/o4-mini-high",
-          "description": ""
-        },
-        {
-          "id": "openai/o4-mini-high:batch",
-          "description": ""
-        },
-        {
-          "id": "openai/o4-mini:batch",
           "description": ""
         },
         {
@@ -1248,6 +1132,10 @@
         },
         {
           "id": "tencent/hy3-preview",
+          "description": ""
+        },
+        {
+          "id": "tencent/hy4-preview",
           "description": ""
         },
         {
