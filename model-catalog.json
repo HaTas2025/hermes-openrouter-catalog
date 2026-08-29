@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-28T21:48:45.332011Z",
+  "updated_at": "2026-08-29T06:08:14.202594Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -228,10 +228,6 @@
         },
         {
           "id": "arcee-ai/trinity-large-thinking",
-          "description": ""
-        },
-        {
-          "id": "arcee-ai/virtuoso-large",
           "description": ""
         },
         {
