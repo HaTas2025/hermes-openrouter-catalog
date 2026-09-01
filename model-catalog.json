@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-01T11:16:55.076740Z",
+  "updated_at": "2026-09-01T16:14:11.900990Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -167,10 +167,6 @@
           "description": ""
         },
         {
-          "id": "anthropic/claude-opus-4.7-fast",
-          "description": ""
-        },
-        {
           "id": "anthropic/claude-opus-4.7:batch",
           "description": ""
         },
@@ -179,19 +175,11 @@
           "description": ""
         },
         {
-          "id": "anthropic/claude-opus-4.8-fast",
-          "description": ""
-        },
-        {
           "id": "anthropic/claude-opus-4.8:batch",
           "description": ""
         },
         {
           "id": "anthropic/claude-opus-5",
-          "description": ""
-        },
-        {
-          "id": "anthropic/claude-opus-5-fast",
           "description": ""
         },
         {
@@ -452,6 +440,10 @@
         },
         {
           "id": "inception/mercury-2",
+          "description": ""
+        },
+        {
+          "id": "inception/mercury-2.5-preview",
           "description": ""
         },
         {
