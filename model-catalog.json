@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-02T10:50:58.517825Z",
+  "updated_at": "2026-09-02T16:09:31.829152Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -416,6 +416,14 @@
         },
         {
           "id": "google/gemini-3.7-flash:batch",
+          "description": ""
+        },
+        {
+          "id": "google/gemini-3.8-flash",
+          "description": ""
+        },
+        {
+          "id": "google/gemini-3.8-flash:batch",
           "description": ""
         },
         {
