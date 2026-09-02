@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-02T16:09:31.829152Z",
+  "updated_at": "2026-09-02T20:40:43.847009Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -516,6 +516,14 @@
         },
         {
           "id": "meta/muse-spark-1.2-contributor",
+          "description": ""
+        },
+        {
+          "id": "meta/muse-spark-1.3",
+          "description": ""
+        },
+        {
+          "id": "meta/muse-spark-1.3-contributor",
           "description": ""
         },
         {
