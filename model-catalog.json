@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-01T20:42:58.770910Z",
+  "updated_at": "2026-09-02T03:27:46.827796Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1416,6 +1416,10 @@
         },
         {
           "id": "~x-ai/grok-latest",
+          "description": ""
+        },
+        {
+          "id": "~z-ai/glm-flash-latest",
           "description": ""
         },
         {
