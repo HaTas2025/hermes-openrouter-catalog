@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-02T03:27:46.827796Z",
+  "updated_at": "2026-09-02T10:50:58.517825Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -124,6 +124,10 @@
         },
         {
           "id": "anthropic/claude-fable-5.1",
+          "description": ""
+        },
+        {
+          "id": "anthropic/claude-fable-5.1:batch",
           "description": ""
         },
         {
