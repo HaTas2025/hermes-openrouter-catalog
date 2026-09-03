@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-02T20:40:43.847009Z",
+  "updated_at": "2026-09-03T03:29:10.960450Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -676,10 +676,6 @@
         },
         {
           "id": "nvidia/nemotron-3-ultra-550b-a55b",
-          "description": ""
-        },
-        {
-          "id": "nvidia/nemotron-3-ultra-550b-a55b:batch",
           "description": ""
         },
         {
