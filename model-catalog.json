@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-04T20:25:57.507197Z",
+  "updated_at": "2026-09-05T03:28:32.533505Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -956,6 +956,14 @@
         },
         {
           "id": "openai/gpt-6-astra-pro",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-6-astra-pro:batch",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-6-astra:batch",
           "description": ""
         },
         {
