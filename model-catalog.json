@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-05T03:28:32.533505Z",
+  "updated_at": "2026-09-05T10:08:24.065694Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1251,7 +1251,7 @@
           "description": ""
         },
         {
-          "id": "qwen/qwen3.8-max",
+          "id": "qwen/qwen3.8-max-0902",
           "description": ""
         },
         {
