@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-08T10:48:40.531898Z",
+  "updated_at": "2026-09-08T16:12:38.325039Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -296,6 +296,10 @@
         },
         {
           "id": "deepseek/deepseek-v4-flash-vision-exp",
+          "description": ""
+        },
+        {
+          "id": "deepseek/deepseek-v4-flash-vision-exp:batch",
           "description": ""
         },
         {
@@ -648,14 +652,6 @@
         },
         {
           "id": "moonshotai/kimi-k3:batch",
-          "description": ""
-        },
-        {
-          "id": "nex-agi/nex-n2-mini",
-          "description": ""
-        },
-        {
-          "id": "nex-agi/nex-n2-pro",
           "description": ""
         },
         {
@@ -1387,6 +1383,10 @@
           "description": ""
         },
         {
+          "id": "z-ai/glm-5.2:batch",
+          "description": ""
+        },
+        {
           "id": "z-ai/glm-5.3",
           "description": ""
         },
@@ -1396,6 +1396,10 @@
         },
         {
           "id": "z-ai/glm-5.3-flash:batch",
+          "description": ""
+        },
+        {
+          "id": "z-ai/glm-5.3:batch",
           "description": ""
         },
         {
