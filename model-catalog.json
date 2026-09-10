@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-10T03:36:56.002548Z",
+  "updated_at": "2026-09-10T10:51:22.232910Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -320,6 +320,10 @@
         },
         {
           "id": "deepseek/deepseek-v4-pro-0813:batch",
+          "description": ""
+        },
+        {
+          "id": "deepseek/deepseek-v4.1-flash",
           "description": ""
         },
         {
