@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-11T10:47:48.312154Z",
+  "updated_at": "2026-09-11T16:03:34.179710Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -476,6 +476,10 @@
         },
         {
           "id": "inclusionai/ling-3.0-flash-fin",
+          "description": ""
+        },
+        {
+          "id": "inclusionai/ling-3.0-flash-vl",
           "description": ""
         },
         {
@@ -1483,11 +1487,23 @@
           "description": ""
         },
         {
-          "id": "~openai/gpt-latest",
+          "id": "~openai/gpt-astra-latest",
+          "description": ""
+        },
+        {
+          "id": "~openai/gpt-luna-latest",
           "description": ""
         },
         {
           "id": "~openai/gpt-mini-latest",
+          "description": ""
+        },
+        {
+          "id": "~openai/gpt-sol-latest",
+          "description": ""
+        },
+        {
+          "id": "~openai/gpt-terra-latest",
           "description": ""
         },
         {
