@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-14T12:07:03.265611Z",
+  "updated_at": "2026-09-14T21:36:31.661637Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -352,10 +352,6 @@
         },
         {
           "id": "google/gemini-2.5-pro-preview",
-          "description": ""
-        },
-        {
-          "id": "google/gemini-2.5-pro-preview-05-06",
           "description": ""
         },
         {
@@ -732,10 +728,6 @@
         },
         {
           "id": "openai/gpt-4-turbo",
-          "description": ""
-        },
-        {
-          "id": "openai/gpt-4-turbo-preview",
           "description": ""
         },
         {
@@ -1468,6 +1460,14 @@
         },
         {
           "id": "~anthropic/claude-sonnet-latest",
+          "description": ""
+        },
+        {
+          "id": "~deepseek/deepseek-flash-latest",
+          "description": ""
+        },
+        {
+          "id": "~deepseek/deepseek-pro-latest",
           "description": ""
         },
         {
