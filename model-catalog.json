@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-15T20:58:03.321197Z",
+  "updated_at": "2026-09-16T03:51:45.378859Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -448,10 +448,6 @@
         },
         {
           "id": "google/gemma-4-31b-it",
-          "description": ""
-        },
-        {
-          "id": "google/gemma-4-31b-it:batch",
           "description": ""
         },
         {
@@ -1328,10 +1324,6 @@
         },
         {
           "id": "thinkingmachines/inkling-small",
-          "description": ""
-        },
-        {
-          "id": "thinkingmachines/inkling-small:batch",
           "description": ""
         },
         {
