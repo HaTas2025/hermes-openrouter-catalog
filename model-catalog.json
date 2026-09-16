@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-16T11:01:19.652240Z",
+  "updated_at": "2026-09-16T16:21:35.137318Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -76,6 +76,10 @@
         },
         {
           "id": "poolside/laguna-xs-2.1:free",
+          "description": "free"
+        },
+        {
+          "id": "stealth/union-alpha",
           "description": "free"
         },
         {
@@ -1312,10 +1316,6 @@
         },
         {
           "id": "tencent/hy4-preview",
-          "description": ""
-        },
-        {
-          "id": "thedrummer/unslopnemo-12b",
           "description": ""
         },
         {
