@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-17T21:02:48.362922Z",
+  "updated_at": "2026-09-18T03:43:56.858526Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -12,6 +12,10 @@
       "models": [
         {
           "id": "cohere/north-mini-code:free",
+          "description": "free"
+        },
+        {
+          "id": "deepseek/deepseek-v4-flash-0731:free",
           "description": "free"
         },
         {
@@ -80,10 +84,6 @@
         },
         {
           "id": "qwen/qwen3.8-27b:free",
-          "description": "free"
-        },
-        {
-          "id": "stealth/union-alpha",
           "description": "free"
         },
         {
@@ -1332,6 +1332,10 @@
         },
         {
           "id": "thinkingmachines/inkling:batch",
+          "description": ""
+        },
+        {
+          "id": "unbiased/pareto",
           "description": ""
         },
         {
