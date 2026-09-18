@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-18T16:00:37.497056Z",
+  "updated_at": "2026-09-18T20:34:49.340372Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1064,6 +1064,10 @@
         },
         {
           "id": "poolside/laguna-xs-2.1",
+          "description": ""
+        },
+        {
+          "id": "prism-ml/ternary-bonsai-2-27b",
           "description": ""
         },
         {
