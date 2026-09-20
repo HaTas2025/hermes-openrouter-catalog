@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-20T03:56:37.509634Z",
+  "updated_at": "2026-09-20T10:51:19.238233Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -12,10 +12,6 @@
       "models": [
         {
           "id": "cohere/north-mini-code:free",
-          "description": "free"
-        },
-        {
-          "id": "deepseek/deepseek-v4-flash-0731:free",
           "description": "free"
         },
         {
@@ -644,6 +640,10 @@
         },
         {
           "id": "mistralai/mistral-small-2603:batch",
+          "description": ""
+        },
+        {
+          "id": "mistralai/mistral-small-3.1-24b-instruct",
           "description": ""
         },
         {
