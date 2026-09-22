@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-22T16:30:18.270313Z",
+  "updated_at": "2026-09-22T20:59:24.568369Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -192,6 +192,14 @@
         },
         {
           "id": "anthropic/claude-opus-5",
+          "description": ""
+        },
+        {
+          "id": "anthropic/claude-opus-5.5",
+          "description": ""
+        },
+        {
+          "id": "anthropic/claude-opus-5.5:batch",
           "description": ""
         },
         {
@@ -963,6 +971,38 @@
           "description": ""
         },
         {
+          "id": "openai/gpt-6-luna",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-6-luna-pro",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-6-luna-pro:batch",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-6-luna:batch",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-6-sol",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-6-sol-pro",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-6-sol-pro:batch",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-6-sol:batch",
+          "description": ""
+        },
+        {
           "id": "openai/gpt-audio",
           "description": ""
         },
@@ -1244,6 +1284,10 @@
         },
         {
           "id": "qwen/qwen3.8-max-0902",
+          "description": ""
+        },
+        {
+          "id": "qwen/qwen3.8-omni-flash",
           "description": ""
         },
         {
