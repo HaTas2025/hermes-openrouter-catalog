@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-23T03:49:25.735140Z",
+  "updated_at": "2026-09-23T10:58:58.759158Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1352,6 +1352,10 @@
         },
         {
           "id": "unbiased/pareto",
+          "description": ""
+        },
+        {
+          "id": "upstage/solar-mini4",
           "description": ""
         },
         {
