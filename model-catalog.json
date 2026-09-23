@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-23T10:58:58.759158Z",
+  "updated_at": "2026-09-23T16:19:57.201557Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -32,10 +32,6 @@
         },
         {
           "id": "inclusionai/ling-3.0-flash-sante:free",
-          "description": "free"
-        },
-        {
-          "id": "inclusionai/ling-3.0-flash-vl:free",
           "description": "free"
         },
         {
@@ -100,6 +96,14 @@
         },
         {
           "id": "aion-labs/aion-3.0-mini",
+          "description": ""
+        },
+        {
+          "id": "aion-labs/aion-3.5",
+          "description": ""
+        },
+        {
+          "id": "aion-labs/aion-3.5-mini",
           "description": ""
         },
         {
@@ -560,10 +564,6 @@
         },
         {
           "id": "mistralai/codestral-2508:batch",
-          "description": ""
-        },
-        {
-          "id": "mistralai/devstral-2512",
           "description": ""
         },
         {
