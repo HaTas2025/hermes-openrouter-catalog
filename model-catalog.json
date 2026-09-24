@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-24T03:41:23.052848Z",
+  "updated_at": "2026-09-24T11:18:07.687303Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -343,6 +343,10 @@
           "description": ""
         },
         {
+          "id": "fireworks/ember-1",
+          "description": ""
+        },
+        {
           "id": "google/gemini-2.5-flash",
           "description": ""
         },
@@ -680,10 +684,6 @@
         },
         {
           "id": "moonshotai/kimi-k3:batch",
-          "description": ""
-        },
-        {
-          "id": "nex-agi/nex-n2.5-pro",
           "description": ""
         },
         {
