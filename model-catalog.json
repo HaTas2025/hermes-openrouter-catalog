@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-25T11:23:16.527445Z",
+  "updated_at": "2026-09-25T16:47:03.537585Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -36,14 +36,6 @@
         },
         {
           "id": "liquid/lfm-2.5-2.6b:free",
-          "description": "free"
-        },
-        {
-          "id": "nex-agi/nex-n2.5-mini:free",
-          "description": "free"
-        },
-        {
-          "id": "nex-agi/nex-n2.5-pro:free",
           "description": "free"
         },
         {
