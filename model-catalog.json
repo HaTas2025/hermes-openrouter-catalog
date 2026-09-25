@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-25T16:47:03.537585Z",
+  "updated_at": "2026-09-25T21:13:20.008922Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1088,6 +1088,10 @@
         },
         {
           "id": "openrouter/auto-beta",
+          "description": ""
+        },
+        {
+          "id": "perceptron/perceptron-mk1.5",
           "description": ""
         },
         {
