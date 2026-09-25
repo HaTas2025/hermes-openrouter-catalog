@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-24T21:16:02.819258Z",
+  "updated_at": "2026-09-25T03:57:33.953066Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -575,6 +575,10 @@
           "description": ""
         },
         {
+          "id": "mistralai/devstral-2512",
+          "description": ""
+        },
+        {
           "id": "mistralai/ministral-14b-2512",
           "description": ""
         },
@@ -596,6 +600,10 @@
         },
         {
           "id": "mistralai/mistral-large-2407",
+          "description": ""
+        },
+        {
+          "id": "mistralai/mistral-large-2512",
           "description": ""
         },
         {
