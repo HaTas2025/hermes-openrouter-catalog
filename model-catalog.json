@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-28T13:11:55.149251Z",
+  "updated_at": "2026-09-28T23:00:43.972781Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -24,10 +24,6 @@
         },
         {
           "id": "google/gemma-4-31b-it:free",
-          "description": "free"
-        },
-        {
-          "id": "inclusionai/ling-3.0-flash-fin:free",
           "description": "free"
         },
         {
@@ -224,6 +220,14 @@
         },
         {
           "id": "anthropic/claude-sonnet-5",
+          "description": ""
+        },
+        {
+          "id": "anthropic/claude-sonnet-5.5",
+          "description": ""
+        },
+        {
+          "id": "anthropic/claude-sonnet-5.5:batch",
           "description": ""
         },
         {
@@ -680,6 +684,10 @@
         },
         {
           "id": "moonshotai/kimi-k3:batch",
+          "description": ""
+        },
+        {
+          "id": "nex-agi/nex-n2.5-pro",
           "description": ""
         },
         {
