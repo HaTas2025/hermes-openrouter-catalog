@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-30T12:06:03.105125Z",
+  "updated_at": "2026-09-30T21:58:19.166644Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1384,6 +1384,10 @@
         },
         {
           "id": "thinkingmachines/inkling-small",
+          "description": ""
+        },
+        {
+          "id": "typesafe/jev-router",
           "description": ""
         },
         {
