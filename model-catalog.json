@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-01T12:39:19.407123Z",
+  "updated_at": "2026-10-01T22:26:13.829292Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -10,6 +10,10 @@
         "display_name": "OpenRouter (Full Auto-Updated)"
       },
       "models": [
+        {
+          "id": "apodex/apodex-1.1-mini:free",
+          "description": "free"
+        },
         {
           "id": "cohere/north-mini-code:free",
           "description": "free"
@@ -1384,6 +1388,10 @@
         },
         {
           "id": "unbiased/pareto",
+          "description": ""
+        },
+        {
+          "id": "unbiased/pareto-26.10-preview",
           "description": ""
         },
         {
