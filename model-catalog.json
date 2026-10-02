@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-02T12:03:31.720650Z",
+  "updated_at": "2026-10-02T21:56:11.475999Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -32,6 +32,10 @@
         },
         {
           "id": "inclusionai/ling-3.0-flash-sante:free",
+          "description": "free"
+        },
+        {
+          "id": "inclusionai/ling-3.1-flash",
           "description": "free"
         },
         {
