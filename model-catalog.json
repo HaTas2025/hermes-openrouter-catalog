@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-06T12:56:59.055026Z",
+  "updated_at": "2026-10-06T22:27:12.064871Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -443,6 +443,10 @@
           "description": ""
         },
         {
+          "id": "google/gemini-nano-banana-2.1",
+          "description": ""
+        },
+        {
           "id": "google/gemma-3-12b-it",
           "description": ""
         },
@@ -600,6 +604,10 @@
         },
         {
           "id": "mistralai/mistral-large-2512:batch",
+          "description": ""
+        },
+        {
+          "id": "mistralai/mistral-large-4-0",
           "description": ""
         },
         {
