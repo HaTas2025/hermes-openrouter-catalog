@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-08T05:03:38.155009Z",
+  "updated_at": "2026-10-08T12:59:37.464664Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1368,6 +1368,10 @@
         },
         {
           "id": "stepfun/step-3.7-flash",
+          "description": ""
+        },
+        {
+          "id": "stepfun/step-5-preview",
           "description": ""
         },
         {
