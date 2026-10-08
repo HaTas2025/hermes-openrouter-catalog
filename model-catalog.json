@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-08T12:59:37.464664Z",
+  "updated_at": "2026-10-08T23:02:51.682310Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -28,10 +28,6 @@
         },
         {
           "id": "google/gemma-4-31b-it:free",
-          "description": "free"
-        },
-        {
-          "id": "inclusionai/ling-3.0-flash-sante:free",
           "description": "free"
         },
         {
@@ -488,6 +484,10 @@
         },
         {
           "id": "inclusionai/ling-3.0-flash-fin",
+          "description": ""
+        },
+        {
+          "id": "inclusionai/ling-3.0-flash-sante",
           "description": ""
         },
         {
@@ -1035,6 +1035,14 @@
           "description": ""
         },
         {
+          "id": "openai/gpt-6.1-sol-pro:batch",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-6.1-sol:batch",
+          "description": ""
+        },
+        {
           "id": "openai/gpt-audio",
           "description": ""
         },
@@ -1356,10 +1364,6 @@
         },
         {
           "id": "sakana/sakana-namazu",
-          "description": ""
-        },
-        {
-          "id": "sao10k/l3.1-euryale-70b",
           "description": ""
         },
         {
