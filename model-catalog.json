@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-09T12:46:09.975482Z",
+  "updated_at": "2026-10-09T22:23:26.814510Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1151,15 +1151,7 @@
           "description": ""
         },
         {
-          "id": "qwen/qwen-plus-2025-07-28",
-          "description": ""
-        },
-        {
           "id": "qwen/qwen3-14b",
-          "description": ""
-        },
-        {
-          "id": "qwen/qwen3-235b-a22b",
           "description": ""
         },
         {
@@ -1179,15 +1171,7 @@
           "description": ""
         },
         {
-          "id": "qwen/qwen3-30b-a3b-thinking-2507",
-          "description": ""
-        },
-        {
           "id": "qwen/qwen3-32b",
-          "description": ""
-        },
-        {
-          "id": "qwen/qwen3-8b",
           "description": ""
         },
         {
@@ -1207,18 +1191,6 @@
           "description": ""
         },
         {
-          "id": "qwen/qwen3-coder-plus",
-          "description": ""
-        },
-        {
-          "id": "qwen/qwen3-max",
-          "description": ""
-        },
-        {
-          "id": "qwen/qwen3-max-thinking",
-          "description": ""
-        },
-        {
           "id": "qwen/qwen3-next-80b-a3b-instruct",
           "description": ""
         },
@@ -1231,10 +1203,6 @@
           "description": ""
         },
         {
-          "id": "qwen/qwen3-vl-235b-a22b-thinking",
-          "description": ""
-        },
-        {
           "id": "qwen/qwen3-vl-30b-a3b-instruct",
           "description": ""
         },
@@ -1243,15 +1211,7 @@
           "description": ""
         },
         {
-          "id": "qwen/qwen3-vl-32b-instruct",
-          "description": ""
-        },
-        {
           "id": "qwen/qwen3-vl-8b-instruct",
-          "description": ""
-        },
-        {
-          "id": "qwen/qwen3-vl-8b-thinking",
           "description": ""
         },
         {
@@ -1296,10 +1256,6 @@
         },
         {
           "id": "qwen/qwen3.6-flash",
-          "description": ""
-        },
-        {
-          "id": "qwen/qwen3.6-max-preview",
           "description": ""
         },
         {
