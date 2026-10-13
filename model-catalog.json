@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-13T13:46:00.789206Z",
+  "updated_at": "2026-10-13T22:23:13.231929Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -10,10 +10,6 @@
         "display_name": "OpenRouter (Full Auto-Updated)"
       },
       "models": [
-        {
-          "id": "apodex/apodex-1.1-mini:free",
-          "description": "free"
-        },
         {
           "id": "cohere/north-mini-code:free",
           "description": "free"
@@ -28,10 +24,6 @@
         },
         {
           "id": "google/gemma-4-31b-it:free",
-          "description": "free"
-        },
-        {
-          "id": "inclusionai/ling-3.1-flash",
           "description": "free"
         },
         {
@@ -447,6 +439,14 @@
           "description": ""
         },
         {
+          "id": "google/gemini-4-argon",
+          "description": ""
+        },
+        {
+          "id": "google/gemini-4-argon:batch",
+          "description": ""
+        },
+        {
           "id": "google/gemini-nano-banana-2.1",
           "description": ""
         },
@@ -483,15 +483,15 @@
           "description": ""
         },
         {
-          "id": "inclusionai/ling-3.0-flash-fin",
-          "description": ""
-        },
-        {
-          "id": "inclusionai/ling-3.0-flash-sante",
-          "description": ""
-        },
-        {
           "id": "inclusionai/ling-3.0-flash-vl",
+          "description": ""
+        },
+        {
+          "id": "inclusionai/ling-3.1-flash",
+          "description": ""
+        },
+        {
+          "id": "liquid/lfm-2.5-24b-a2b",
           "description": ""
         },
         {
@@ -1124,6 +1124,10 @@
         },
         {
           "id": "openrouter/auto-beta",
+          "description": ""
+        },
+        {
+          "id": "openrouter/pareto-code",
           "description": ""
         },
         {
