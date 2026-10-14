@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-13T22:23:13.231929Z",
+  "updated_at": "2026-10-14T03:58:59.561343Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1367,11 +1367,11 @@
           "description": ""
         },
         {
-          "id": "unbiased/pareto",
+          "id": "unbiased/pareto-26.10-preview",
           "description": ""
         },
         {
-          "id": "unbiased/pareto-26.10-preview",
+          "id": "unbiased/pareto-26.9",
           "description": ""
         },
         {
@@ -1564,6 +1564,10 @@
         },
         {
           "id": "~openai/gpt-terra-latest",
+          "description": ""
+        },
+        {
+          "id": "~unbiased/pareto-latest",
           "description": ""
         },
         {
