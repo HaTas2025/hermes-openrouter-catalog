@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T11:00:37.149363Z",
+  "updated_at": "2026-10-15T16:30:12.944072Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -44,6 +44,10 @@
         },
         {
           "id": "nvidia/nemotron-3.5-lightning:free",
+          "description": "free"
+        },
+        {
+          "id": "nvidia/nemotron-3.5-super-vl:free",
           "description": "free"
         },
         {
@@ -192,10 +196,6 @@
         },
         {
           "id": "anthropic/claude-opus-5:batch",
-          "description": ""
-        },
-        {
-          "id": "anthropic/claude-sonnet-4",
           "description": ""
         },
         {
@@ -720,6 +720,10 @@
         },
         {
           "id": "nvidia/nemotron-3.5-lightning",
+          "description": ""
+        },
+        {
+          "id": "nvidia/nemotron-3.5-super-vl",
           "description": ""
         },
         {
@@ -1364,10 +1368,6 @@
         },
         {
           "id": "typesafe/jev-router",
-          "description": ""
-        },
-        {
-          "id": "unbiased/pareto-26.10-preview",
           "description": ""
         },
         {
