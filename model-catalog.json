@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T10:56:22.029548Z",
+  "updated_at": "2026-10-16T16:15:39.156852Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1312,6 +1312,10 @@
         },
         {
           "id": "qwen/qwen3.8-omni-flash",
+          "description": ""
+        },
+        {
+          "id": "reflection/beam-1.0-501b-a23b",
           "description": ""
         },
         {
