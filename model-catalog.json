@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T20:37:39.287954Z",
+  "updated_at": "2026-10-17T03:27:04.750356Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -332,6 +332,10 @@
         },
         {
           "id": "deepseek/deepseek-v4.1-flash:batch",
+          "description": ""
+        },
+        {
+          "id": "elorian/glimpse",
           "description": ""
         },
         {
@@ -1292,6 +1296,10 @@
         },
         {
           "id": "qwen/qwen3.7-plus",
+          "description": ""
+        },
+        {
+          "id": "qwen/qwen3.7-plus:batch",
           "description": ""
         },
         {
