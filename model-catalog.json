@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T20:16:35.708941Z",
+  "updated_at": "2026-10-18T03:33:45.951427Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1392,6 +1392,10 @@
         },
         {
           "id": "typesafe/jev-router",
+          "description": ""
+        },
+        {
+          "id": "unbiased/pareto-26.10",
           "description": ""
         },
         {
