@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T03:44:33.508093Z",
+  "updated_at": "2026-10-19T12:27:50.141809Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -28,6 +28,10 @@
         },
         {
           "id": "liquid/lfm-2.5-2.6b:free",
+          "description": "free"
+        },
+        {
+          "id": "minimax/minimax-m3.1-flash:free",
           "description": "free"
         },
         {
@@ -284,10 +288,6 @@
         },
         {
           "id": "deepseek/deepseek-chat-v3.1",
-          "description": ""
-        },
-        {
-          "id": "deepseek/deepseek-r1",
           "description": ""
         },
         {
