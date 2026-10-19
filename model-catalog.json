@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T12:27:50.141809Z",
+  "updated_at": "2026-10-19T22:05:19.604067Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -488,6 +488,10 @@
         },
         {
           "id": "inception/mercury-2.5",
+          "description": ""
+        },
+        {
+          "id": "inception/mercury-3",
           "description": ""
         },
         {
