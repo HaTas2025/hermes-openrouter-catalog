@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-21T16:47:50.086200Z",
+  "updated_at": "2026-10-21T21:22:26.380877Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -64,6 +64,10 @@
         },
         {
           "id": "poolside/laguna-xs-2.1:free",
+          "description": "free"
+        },
+        {
+          "id": "recursive/flint-v1.0:free",
           "description": "free"
         },
         {
