@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-21T21:22:26.380877Z",
+  "updated_at": "2026-10-22T03:44:58.488149Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -356,10 +356,6 @@
         },
         {
           "id": "google/gemini-2.5-flash-lite",
-          "description": ""
-        },
-        {
-          "id": "google/gemini-2.5-flash-lite:batch",
           "description": ""
         },
         {
