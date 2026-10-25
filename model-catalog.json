@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T20:24:24.460879Z",
+  "updated_at": "2026-10-25T03:41:53.351055Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -492,6 +492,10 @@
         },
         {
           "id": "inclusionai/ling-3.1-flash",
+          "description": ""
+        },
+        {
+          "id": "liquid/lfm-2.5-2.6b",
           "description": ""
         },
         {
