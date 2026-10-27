@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T17:39:09.325419Z",
+  "updated_at": "2026-10-27T21:54:31.821320Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1148,6 +1148,10 @@
         },
         {
           "id": "prism-ml/ternary-bonsai-2-27b",
+          "description": ""
+        },
+        {
+          "id": "prism-ml/ternary-bonsai-2-9b",
           "description": ""
         },
         {
