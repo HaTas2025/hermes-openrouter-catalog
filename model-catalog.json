@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-28T12:19:16.305581Z",
+  "updated_at": "2026-10-28T22:18:28.808931Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -731,10 +731,6 @@
           "description": ""
         },
         {
-          "id": "openai/gpt-4-turbo",
-          "description": ""
-        },
-        {
           "id": "openai/gpt-4-turbo:batch",
           "description": ""
         },
@@ -1083,19 +1079,7 @@
           "description": ""
         },
         {
-          "id": "openai/o1",
-          "description": ""
-        },
-        {
           "id": "openai/o3",
-          "description": ""
-        },
-        {
-          "id": "openai/o3-mini",
-          "description": ""
-        },
-        {
-          "id": "openai/o3-mini-high",
           "description": ""
         },
         {
@@ -1108,14 +1092,6 @@
         },
         {
           "id": "openai/o3:batch",
-          "description": ""
-        },
-        {
-          "id": "openai/o4-mini",
-          "description": ""
-        },
-        {
-          "id": "openai/o4-mini-high",
           "description": ""
         },
         {
@@ -1132,6 +1108,10 @@
         },
         {
           "id": "openrouter/pareto-code",
+          "description": ""
+        },
+        {
+          "id": "particle-ai/particle-1",
           "description": ""
         },
         {
@@ -1208,10 +1188,6 @@
         },
         {
           "id": "qwen/qwen3-next-80b-a3b-instruct",
-          "description": ""
-        },
-        {
-          "id": "qwen/qwen3-next-80b-a3b-thinking",
           "description": ""
         },
         {
