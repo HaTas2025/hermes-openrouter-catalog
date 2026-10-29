@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-29T12:28:03.857029Z",
+  "updated_at": "2026-10-29T22:31:37.458686Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1368,10 +1368,6 @@
         },
         {
           "id": "upstage/solar-mini4",
-          "description": ""
-        },
-        {
-          "id": "upstage/solar-pro-3",
           "description": ""
         },
         {
