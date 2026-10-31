@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-31T11:50:54.372442Z",
+  "updated_at": "2026-10-31T16:57:34.627360Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -48,14 +48,6 @@
         },
         {
           "id": "openrouter/free",
-          "description": "free"
-        },
-        {
-          "id": "poolside/laguna-s-2.1:free",
-          "description": "free"
-        },
-        {
-          "id": "poolside/laguna-xs-2.1:free",
           "description": "free"
         },
         {
@@ -1116,14 +1108,6 @@
         },
         {
           "id": "perceptron/perceptron-mk1.5",
-          "description": ""
-        },
-        {
-          "id": "poolside/laguna-s-2.1",
-          "description": ""
-        },
-        {
-          "id": "poolside/laguna-xs-2.1",
           "description": ""
         },
         {
