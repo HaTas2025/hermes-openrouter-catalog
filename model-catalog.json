@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-03T13:47:45.602887Z",
+  "updated_at": "2026-11-03T22:58:50.855275Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -52,6 +52,10 @@
         },
         {
           "id": "recursive/flint-v1.0:free",
+          "description": "free"
+        },
+        {
+          "id": "stealth/crouton-alpha",
           "description": "free"
         },
         {
@@ -1375,7 +1379,15 @@
           "description": ""
         },
         {
+          "id": "x-ai/grok-4.6:batch",
+          "description": ""
+        },
+        {
           "id": "x-ai/grok-4.7",
+          "description": ""
+        },
+        {
+          "id": "x-ai/grok-4.7:batch",
           "description": ""
         },
         {
