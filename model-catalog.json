@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-03T22:58:50.855275Z",
+  "updated_at": "2026-11-04T05:18:57.836916Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1324,6 +1324,10 @@
         },
         {
           "id": "tencent/hy3-preview",
+          "description": ""
+        },
+        {
+          "id": "tencent/hy4",
           "description": ""
         },
         {
