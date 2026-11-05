@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-05T05:39:27.917148Z",
+  "updated_at": "2026-11-05T14:12:30.723422Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -471,6 +471,10 @@
           "description": ""
         },
         {
+          "id": "inclusionai/ling-3.0-tiny",
+          "description": ""
+        },
+        {
           "id": "inclusionai/ling-3.1-flash",
           "description": ""
         },
@@ -536,14 +540,6 @@
         },
         {
           "id": "minimax/minimax-m1",
-          "description": ""
-        },
-        {
-          "id": "minimax/minimax-m2",
-          "description": ""
-        },
-        {
-          "id": "minimax/minimax-m2.1",
           "description": ""
         },
         {
@@ -1088,6 +1084,10 @@
         },
         {
           "id": "openrouter/auto-beta",
+          "description": ""
+        },
+        {
+          "id": "openrouter/auto-code",
           "description": ""
         },
         {
