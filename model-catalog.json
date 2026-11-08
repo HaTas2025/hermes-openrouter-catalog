@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-08T04:59:16.064041Z",
+  "updated_at": "2026-11-08T12:55:04.210645Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -468,18 +468,6 @@
         },
         {
           "id": "ibm-granite/granite-4.2-8b",
-          "description": ""
-        },
-        {
-          "id": "inception/mercury-2",
-          "description": ""
-        },
-        {
-          "id": "inception/mercury-2.5",
-          "description": ""
-        },
-        {
-          "id": "inception/mercury-3",
           "description": ""
         },
         {
