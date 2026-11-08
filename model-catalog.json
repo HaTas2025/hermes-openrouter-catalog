@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-07T21:33:34.074440Z",
+  "updated_at": "2026-11-08T04:59:16.064041Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -328,6 +328,10 @@
         },
         {
           "id": "deepseek/deepseek-v4.1-flash-1017",
+          "description": ""
+        },
+        {
+          "id": "deepseek/deepseek-v4.1-flash-1017:batch",
           "description": ""
         },
         {
@@ -1492,6 +1496,10 @@
         },
         {
           "id": "z-ai/glm-5.2",
+          "description": ""
+        },
+        {
+          "id": "z-ai/glm-5.2:batch",
           "description": ""
         },
         {
