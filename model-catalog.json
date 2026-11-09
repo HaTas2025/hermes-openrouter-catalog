@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-09T05:09:11.175845Z",
+  "updated_at": "2026-11-09T15:29:46.234326Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -552,10 +552,6 @@
         },
         {
           "id": "meta/muse-wonder",
-          "description": ""
-        },
-        {
-          "id": "minimax/minimax-m1",
           "description": ""
         },
         {
@@ -1284,6 +1280,10 @@
         },
         {
           "id": "qwen/qwen3.8-max-0902",
+          "description": ""
+        },
+        {
+          "id": "qwen/qwen3.8-max-0902:batch",
           "description": ""
         },
         {
