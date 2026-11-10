@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-09T15:29:46.234326Z",
+  "updated_at": "2026-11-10T01:16:18.764975Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -59,7 +59,7 @@
           "description": "free"
         },
         {
-          "id": "stealth/crouton-alpha",
+          "id": "thinkingmachines/inkling-2-small:free",
           "description": "free"
         },
         {
@@ -116,6 +116,14 @@
         },
         {
           "id": "anthropic/claude-fable-5.1:batch",
+          "description": ""
+        },
+        {
+          "id": "anthropic/claude-fable-5.2",
+          "description": ""
+        },
+        {
+          "id": "anthropic/claude-fable-5.2:batch",
           "description": ""
         },
         {
@@ -516,6 +524,10 @@
         },
         {
           "id": "meta-llama/llama-4-scout",
+          "description": ""
+        },
+        {
+          "id": "meta/muse-ember",
           "description": ""
         },
         {
