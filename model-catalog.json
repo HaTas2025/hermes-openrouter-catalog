@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-10T01:16:18.764975Z",
+  "updated_at": "2026-11-10T14:29:35.030925Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -704,6 +704,10 @@
         },
         {
           "id": "nex-agi/nex-n2.5-pro",
+          "description": ""
+        },
+        {
+          "id": "nex-agi/nex-n2.6",
           "description": ""
         },
         {
