@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-10T14:29:35.030925Z",
+  "updated_at": "2026-11-10T22:56:39.675107Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -235,6 +235,14 @@
           "description": ""
         },
         {
+          "id": "baidu/ernie-5.5-flash-preview",
+          "description": ""
+        },
+        {
+          "id": "baidu/ernie-light-dt-1.0-intl",
+          "description": ""
+        },
+        {
           "id": "bytedance-seed/seed-1.6",
           "description": ""
         },
@@ -452,6 +460,14 @@
         },
         {
           "id": "google/gemini-4-argon:batch",
+          "description": ""
+        },
+        {
+          "id": "google/gemini-4-carbon",
+          "description": ""
+        },
+        {
+          "id": "google/gemini-4-carbon:batch",
           "description": ""
         },
         {
