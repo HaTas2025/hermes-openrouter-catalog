@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-11T05:10:41.474935Z",
+  "updated_at": "2026-11-11T13:44:12.765907Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -10,6 +10,10 @@
         "display_name": "OpenRouter (Full Auto-Updated)"
       },
       "models": [
+        {
+          "id": "baidu/ernie-5.5-flash-preview:free",
+          "description": "free"
+        },
         {
           "id": "cohere/north-mini-code:free",
           "description": "free"
@@ -231,27 +235,11 @@
           "description": ""
         },
         {
-          "id": "baidu/ernie-5.5-flash-preview",
-          "description": ""
-        },
-        {
           "id": "baidu/ernie-light-dt-1.0-intl",
           "description": ""
         },
         {
-          "id": "bytedance-seed/seed-1.6",
-          "description": ""
-        },
-        {
-          "id": "bytedance-seed/seed-1.6-flash",
-          "description": ""
-        },
-        {
           "id": "bytedance-seed/seed-2-1-turbo",
-          "description": ""
-        },
-        {
-          "id": "bytedance-seed/seed-2.0-code",
           "description": ""
         },
         {
