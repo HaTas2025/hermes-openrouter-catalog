@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-10T22:56:39.675107Z",
+  "updated_at": "2026-11-11T05:10:41.474935Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -60,10 +60,6 @@
         },
         {
           "id": "thinkingmachines/inkling-2-small:free",
-          "description": "free"
-        },
-        {
-          "id": "xingchen-agi/xing4.0-29b-a4b:free",
           "description": "free"
         },
         {
@@ -1160,10 +1156,6 @@
         },
         {
           "id": "qwen/qwen-2.5-72b-instruct",
-          "description": ""
-        },
-        {
-          "id": "qwen/qwen-2.5-7b-instruct",
           "description": ""
         },
         {
