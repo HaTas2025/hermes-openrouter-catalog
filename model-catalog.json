@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T05:36:09.282219Z",
+  "updated_at": "2026-11-13T14:06:55.234714Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -10,10 +10,6 @@
         "display_name": "OpenRouter (Full Auto-Updated)"
       },
       "models": [
-        {
-          "id": "apodex/apodex-1.1-mini:free",
-          "description": "free"
-        },
         {
           "id": "baidu/ernie-5.5-flash-preview:free",
           "description": "free"
@@ -32,10 +28,6 @@
         },
         {
           "id": "google/gemma-4-31b-it:free",
-          "description": "free"
-        },
-        {
-          "id": "liquid/lfm-2.5-2.6b:free",
           "description": "free"
         },
         {
@@ -495,14 +487,6 @@
           "description": ""
         },
         {
-          "id": "inclusionai/ling-3.0-flash-fin",
-          "description": ""
-        },
-        {
-          "id": "inclusionai/ling-3.0-flash-sante",
-          "description": ""
-        },
-        {
           "id": "inclusionai/ling-3.0-flash-vl",
           "description": ""
         },
@@ -515,7 +499,7 @@
           "description": ""
         },
         {
-          "id": "liquid/lfm-2.5-2.6b",
+          "id": "kt/midm-k-3.0-pro",
           "description": ""
         },
         {
@@ -724,6 +708,10 @@
         },
         {
           "id": "moonshotai/kimi-k3:batch",
+          "description": ""
+        },
+        {
+          "id": "motif-technologies/motif-3",
           "description": ""
         },
         {
