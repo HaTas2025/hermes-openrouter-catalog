@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T05:26:49.345694Z",
+  "updated_at": "2026-11-14T13:07:55.186820Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -332,6 +332,10 @@
         },
         {
           "id": "deepseek/deepseek-v4.1-flash-1017",
+          "description": ""
+        },
+        {
+          "id": "deepseek/deepseek-v4.1-flash-1017:batch",
           "description": ""
         },
         {
