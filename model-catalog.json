@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-15T05:24:24.431160Z",
+  "updated_at": "2026-11-15T13:37:22.385952Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1223,10 +1223,6 @@
           "description": ""
         },
         {
-          "id": "qwen/qwen3-vl-30b-a3b-thinking",
-          "description": ""
-        },
-        {
           "id": "qwen/qwen3-vl-8b-instruct",
           "description": ""
         },
@@ -1356,10 +1352,6 @@
         },
         {
           "id": "sakana/sakana-namazu",
-          "description": ""
-        },
-        {
-          "id": "stepfun/step-3.5-flash",
           "description": ""
         },
         {
