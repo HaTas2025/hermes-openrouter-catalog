@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-15T22:34:44.939754Z",
+  "updated_at": "2026-11-16T05:22:08.906286Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1320,6 +1320,10 @@
         },
         {
           "id": "qwen/qwen3.8-omni-flash",
+          "description": ""
+        },
+        {
+          "id": "qwen/qwen4-max",
           "description": ""
         },
         {
