@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T15:38:49.634145Z",
+  "updated_at": "2026-11-18T00:41:07.637601Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1076,6 +1076,38 @@
         },
         {
           "id": "openai/gpt-6.1-terra:batch",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-6.2-astra",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-6.2-astra-pro",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-6.2-astra-pro:batch",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-6.2-astra:batch",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-6.2-sol",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-6.2-sol-pro",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-6.2-sol-pro:batch",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-6.2-sol:batch",
           "description": ""
         },
         {
