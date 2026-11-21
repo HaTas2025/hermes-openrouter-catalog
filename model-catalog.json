@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T19:42:57.837107Z",
+  "updated_at": "2026-11-21T06:03:01.808435Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -12,10 +12,6 @@
       "models": [
         {
           "id": "baidu/ernie-5.5-flash-preview:free",
-          "description": "free"
-        },
-        {
-          "id": "dots-studio/dots-3-note-preview:free",
           "description": "free"
         },
         {
@@ -516,10 +512,6 @@
         },
         {
           "id": "liquid/lfm-3-1.7b",
-          "description": ""
-        },
-        {
-          "id": "meituan/longcat-2.0",
           "description": ""
         },
         {
@@ -1363,6 +1355,10 @@
           "description": ""
         },
         {
+          "id": "radixark/daisyrose-27b",
+          "description": ""
+        },
+        {
           "id": "reflection/beam-1.0-501b-a23b",
           "description": ""
         },
@@ -1407,10 +1403,6 @@
           "description": ""
         },
         {
-          "id": "tencent/hy3-preview",
-          "description": ""
-        },
-        {
           "id": "tencent/hy4",
           "description": ""
         },
@@ -1424,6 +1416,10 @@
         },
         {
           "id": "thinkingmachines/inkling",
+          "description": ""
+        },
+        {
+          "id": "thinkingmachines/inkling-2-mini",
           "description": ""
         },
         {
