@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T23:21:28.541488Z",
+  "updated_at": "2026-11-23T06:21:18.690280Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -12,6 +12,10 @@
       "models": [
         {
           "id": "baidu/ernie-5.5-flash-preview:free",
+          "description": "free"
+        },
+        {
+          "id": "dots-studio/dots-3-note-preview:free",
           "description": "free"
         },
         {
