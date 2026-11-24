@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T08:54:45.384387Z",
+  "updated_at": "2026-11-24T22:01:14.045407Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -12,10 +12,6 @@
       "models": [
         {
           "id": "baidu/ernie-5.5-flash-preview:free",
-          "description": "free"
-        },
-        {
-          "id": "dots-studio/dots-3-note-preview:free",
           "description": "free"
         },
         {
@@ -635,19 +631,11 @@
           "description": ""
         },
         {
-          "id": "mistralai/mistral-medium-3",
-          "description": ""
-        },
-        {
           "id": "mistralai/mistral-medium-3-5",
           "description": ""
         },
         {
           "id": "mistralai/mistral-medium-3-5:batch",
-          "description": ""
-        },
-        {
-          "id": "mistralai/mistral-medium-3.1",
           "description": ""
         },
         {
@@ -1480,10 +1468,6 @@
         },
         {
           "id": "x-ai/grok-4.7:batch",
-          "description": ""
-        },
-        {
-          "id": "xiaomi/mimo-v2.5",
           "description": ""
         },
         {
