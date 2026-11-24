@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T23:31:54.607973Z",
+  "updated_at": "2026-11-24T08:54:45.384387Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -676,18 +676,6 @@
         },
         {
           "id": "mistralai/voxtral-small-24b-2507",
-          "description": ""
-        },
-        {
-          "id": "moonshotai/kimi-k2",
-          "description": ""
-        },
-        {
-          "id": "moonshotai/kimi-k2-0905",
-          "description": ""
-        },
-        {
-          "id": "moonshotai/kimi-k2-thinking",
           "description": ""
         },
         {
