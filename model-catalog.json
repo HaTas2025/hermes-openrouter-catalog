@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T07:30:41.941472Z",
+  "updated_at": "2026-11-25T21:15:42.602331Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -599,6 +599,10 @@
           "description": ""
         },
         {
+          "id": "mistralai/codestral-2508:batch",
+          "description": ""
+        },
+        {
           "id": "mistralai/devstral-2512",
           "description": ""
         },
@@ -615,6 +619,10 @@
           "description": ""
         },
         {
+          "id": "mistralai/ministral-8b-2512:batch",
+          "description": ""
+        },
+        {
           "id": "mistralai/mistral-large",
           "description": ""
         },
@@ -624,6 +632,10 @@
         },
         {
           "id": "mistralai/mistral-large-2512",
+          "description": ""
+        },
+        {
+          "id": "mistralai/mistral-large-2512:batch",
           "description": ""
         },
         {
@@ -648,6 +660,10 @@
         },
         {
           "id": "mistralai/mistral-small-2603",
+          "description": ""
+        },
+        {
+          "id": "mistralai/mistral-small-2603:batch",
           "description": ""
         },
         {
@@ -1419,18 +1435,6 @@
           "description": ""
         },
         {
-          "id": "unbiased/pareto-26.10",
-          "description": ""
-        },
-        {
-          "id": "unbiased/pareto-26.10-preview",
-          "description": ""
-        },
-        {
-          "id": "unbiased/pareto-26.9",
-          "description": ""
-        },
-        {
           "id": "upstage/solar-mini-4-5",
           "description": ""
         },
@@ -1632,10 +1636,6 @@
         },
         {
           "id": "~openai/gpt-terra-latest",
-          "description": ""
-        },
-        {
-          "id": "~unbiased/pareto-latest",
           "description": ""
         },
         {
