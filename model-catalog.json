@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T07:19:54.532166Z",
+  "updated_at": "2026-11-26T21:03:39.378763Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -503,6 +503,10 @@
           "description": ""
         },
         {
+          "id": "inclusionai/lingsante-3.1-air-vl",
+          "description": ""
+        },
+        {
           "id": "kt/midm-k-3.0-pro",
           "description": ""
         },
@@ -680,6 +684,14 @@
         },
         {
           "id": "mistralai/voxtral-small-24b-2507",
+          "description": ""
+        },
+        {
+          "id": "moonshotai/kimi-k2",
+          "description": ""
+        },
+        {
+          "id": "moonshotai/kimi-k2-0905",
           "description": ""
         },
         {
