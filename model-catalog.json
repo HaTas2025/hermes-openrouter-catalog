@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T20:48:32.509625Z",
+  "updated_at": "2026-11-28T06:49:09.624578Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1212,10 +1212,6 @@
         },
         {
           "id": "qwen/qwen3-235b-a22b-2507",
-          "description": ""
-        },
-        {
-          "id": "qwen/qwen3-235b-a22b-thinking-2507",
           "description": ""
         },
         {
